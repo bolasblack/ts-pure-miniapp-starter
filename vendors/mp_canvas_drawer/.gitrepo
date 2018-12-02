@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/kuckboy1994/mp_canvas_drawer
+	branch = master
+	commit = 04baf8f0aaa33ff1024371c150f5466862bc63ca
+	parent = 48155d3d72297b804c3c3fe4aee8496027c12cd5
+	cmdver = 0.3.1
